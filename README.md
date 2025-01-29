@@ -5,8 +5,8 @@
 - 📫 How to reach me: piyushmittal1983@gmail.com.
 
 🚀 **Skills and Tools:**
-- **Languages:** JavaScript, HTML, CSS, Node.js
-- **Frameworks:** React, Express.js
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** *
 - **Tools:** Git, GitHub, WordPress, Canva
 - **Others:** Graphic Design, Blogging
 
@@ -28,7 +28,7 @@
 📬 **Contact Me:**
 - **Portfolio:** [emptyname](emptylink)
 - **Email:** piyushmittal1983@gmail.com
-- **LinkedIn:** [linkedin.com/in/piyushmittal](https://www.linkedin.com/in/piyush-mittal-789270278))
+- **LinkedIn:** [linkedin.com/in/piyushmittal](https://www.linkedin.com/in/piyush-mittal-789270278)
 
 💡 Feel free to explore my repositories and get in touch if you’d like to collaborate! 😊
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=piyushmittal)
