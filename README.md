@@ -22,8 +22,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmittal&layout=compact&theme=radical)
 
 🏅 **Certifications:**
-- JavaScript Essentials by XYZ Academy
-- Web Development Bootcamp by Udemy
+- DIT - Diploma in Information Technology
+- Certificate Of Appreciation By CareerGuide.com
 
 📬 **Contact Me:**
 - **Portfolio:** [emptyname](emptylink)
