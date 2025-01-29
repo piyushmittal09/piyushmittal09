@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, Im Piyush Mittal.
 🔭 I’m currently working on Javascript Projects.<br>👯 I’m looking to collaborate on Open-Source Projects.<br>🤝 I’m looking for help with Collaborative Projects.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about Web Development/Blogging/SEO/Wordpress.
 
 
