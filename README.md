@@ -1,6 +1,8 @@
-👋 Hi there! I’m **Piyush Mittal**, a passionate web developer, graphic designer, and blogger.  
-🔭 Currently learning JavaScript and working on innovative projects like a sales report generator.  
-🌱 I enjoy building user-friendly web applications and exploring entrepreneurship case studies.
+# Hi there 👋, I'm Piyush Mittal
+- 🔭 I’m currently working on JavaScript Projects.
+- 🌱 I’m learning Javascript.
+- 💬 Ask me about Wordpress/Blogging/SEO/Site Analytics/Javascript.
+- 📫 How to reach me: piyushmittal1983@gmail.com.
 
 🚀 **Skills and Tools:**
 - **Languages:** JavaScript, HTML, CSS, Node.js
