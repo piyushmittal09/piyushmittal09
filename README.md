@@ -11,9 +11,12 @@
 - **Others:** Graphic Design, Blogging
 
 🛠️ **Projects:**
-- [**Sales Report Generator**](https://github.com/your-repo-link): A Node.js CLI tool for generating sales reports quickly.
-- [**Portfolio Website**](https://github.com/your-portfolio-repo): A modern, responsive portfolio to showcase my work and skills.
-- [**Random Quiz Generator**](https://github.com/your-quiz-repo): An interactive web-based quiz app built with HTML, CSS, and JavaScript.
+- [**Landing Page**](https://piyushmittal09.github.io/Frontend-Mentor-UI-Development/Managing-landing-page/managing-landing-page.html): A Responsive Landing Page.
+- [**Youtube UI**](https://piyushmittal09.github.io/HTML-CSS-Clones/Youtube%20UI%20Clone%20(HTML%20Generation%20With%20JS)/youtube.html): Responsive Youtube UI Page.
+- [**Amazon UI**](https://piyushmittal09.github.io/HTML-CSS-Clones/Amazon/Amazon.html): Amazon UI.
+- [**Tic Tac Toe**](https://piyushmittal09.github.io/JavaScript/JS-Mini-Projects/tic-tac-toe/tic-tac-toe.html): Tic Tac Toe Game.
+- [**Find Banana Game**](https://piyushmittal09.github.io/JavaScript/JS-Mini-Projects/Banana-Game/find%20banana.html): An interactive game built with HTML, CSS, and JavaScript.
+- [**Github Api**](https://piyushmittal09.github.io/JavaScript/JS-Mini-Projects/api-request/api-request.html): Github Profile Api Fetcher.
 
 📊 **GitHub Stats:**
 ![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushmittal&show_icons=true&theme=radical)
