@@ -26,9 +26,9 @@
 - Web Development Bootcamp by Udemy
 
 📬 **Contact Me:**
-- **Portfolio:** [piyushmittal.dev](https://piyushmittal.dev)
+- **Portfolio:** [emptyname](emptylink)
 - **Email:** piyushmittal1983@gmail.com
-- **LinkedIn:** [linkedin.com/in/piyushmittal](https://linkedin.com/in/piyushmittal)
+- **LinkedIn:** [linkedin.com/in/piyushmittal](https://www.linkedin.com/in/piyush-mittal-789270278))
 
 💡 Feel free to explore my repositories and get in touch if you’d like to collaborate! 😊
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=piyushmittal)
